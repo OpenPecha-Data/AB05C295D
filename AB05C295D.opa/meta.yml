@@ -1,0 +1,19 @@
+id: AB05C295D
+title: Toh_249-The_Sutra_Teaching_the_Four_Factors-v2
+type: translation
+pechas:
+- ICF1D95FB
+- IF1F163BB
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-066-007
+  title: Toh_249-The_Sutra_Teaching_the_Four_Factors-v2
+alignment_to_base:
+  ICF1D95FB/FD60: '3844'
+  IF1F163BB/565B: '3844'
